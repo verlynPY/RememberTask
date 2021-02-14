@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RememberTask</string>
+    <string name="title_activity_home">My Compose App</string>
+</resources>
